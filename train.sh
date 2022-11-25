@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python main.py --name test --iter 501 --optimize_choices both --backbone gca --mse 10 --g 1 --e 1
