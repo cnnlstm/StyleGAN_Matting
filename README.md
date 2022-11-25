@@ -33,7 +33,7 @@ bash train.sh
 
 
 $\color{#FF0000}{Note:}$ 
-For training on new image, you need to get the latent codes using the ```stylegan++.py```, besides, you also need to get the trimap using our pre-trained trimap model in(```main.py```) and foreground image (```fg_pred.py```), and put them at the ```dataset/testing```.
+For training on new image, you need to get the latent codes using the ```stylegan++.py```, besides, you also need to get the trimap using our pre-trained trimap model in(```main.py```) and foreground image (```fg_pred.py```), and put them at ```dataset/testing```.
 
 
 
